@@ -1,0 +1,18 @@
+C:\Users\REC\documents\visual studio 2013\Projects\Lawyer\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\REC\documents\visual studio 2013\Projects\Lawyer\Business\bin\Debug\Business.dll
+C:\Users\REC\documents\visual studio 2013\Projects\Lawyer\Business\bin\Debug\Business.pdb
+C:\Users\REC\documents\visual studio 2013\Projects\Lawyer\Business\bin\Debug\Entity.dll
+C:\Users\REC\documents\visual studio 2013\Projects\Lawyer\Business\bin\Debug\Facade.dll
+C:\Users\REC\documents\visual studio 2013\Projects\Lawyer\Business\bin\Debug\Entity.pdb
+C:\Users\REC\documents\visual studio 2013\Projects\Lawyer\Business\bin\Debug\Facade.pdb
+C:\Users\REC\documents\visual studio 2013\Projects\Lawyer\Business\obj\Debug\Business.dll
+C:\Users\REC\documents\visual studio 2013\Projects\Lawyer\Business\obj\Debug\Business.pdb
+C:\Users\berkay\Desktop\2013510085_2013510105\Lawyer\Business\bin\Debug\Business.dll
+C:\Users\berkay\Desktop\2013510085_2013510105\Lawyer\Business\bin\Debug\Business.pdb
+C:\Users\berkay\Desktop\2013510085_2013510105\Lawyer\Business\bin\Debug\Entity.dll
+C:\Users\berkay\Desktop\2013510085_2013510105\Lawyer\Business\bin\Debug\Facade.dll
+C:\Users\berkay\Desktop\2013510085_2013510105\Lawyer\Business\bin\Debug\Entity.pdb
+C:\Users\berkay\Desktop\2013510085_2013510105\Lawyer\Business\bin\Debug\Facade.pdb
+C:\Users\berkay\Desktop\2013510085_2013510105\Lawyer\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\berkay\Desktop\2013510085_2013510105\Lawyer\Business\obj\Debug\Business.dll
+C:\Users\berkay\Desktop\2013510085_2013510105\Lawyer\Business\obj\Debug\Business.pdb

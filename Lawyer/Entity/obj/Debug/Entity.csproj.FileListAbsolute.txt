@@ -1,0 +1,5 @@
+c:\Users\REC\documents\visual studio 2013\Projects\Lawyer\Entity\bin\Debug\Entity.dll
+c:\Users\REC\documents\visual studio 2013\Projects\Lawyer\Entity\bin\Debug\Entity.pdb
+c:\Users\REC\documents\visual studio 2013\Projects\Lawyer\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+c:\Users\REC\documents\visual studio 2013\Projects\Lawyer\Entity\obj\Debug\Entity.dll
+c:\Users\REC\documents\visual studio 2013\Projects\Lawyer\Entity\obj\Debug\Entity.pdb
